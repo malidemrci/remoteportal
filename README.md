@@ -61,7 +61,7 @@ Grup İlkesi ile dağıtılır; yeni sürümler panelden yayımlanır, bilgisaya
 | **Portal Android** | Android 8 ve üstü · telefon ve tablet | Beta |
 | **Portal iOS** | iOS / iPadOS 17 ve üstü · iPhone ve iPad | Beta |
 
-İndirmeler yalnızca [remoteportal.app/#indir](https://remoteportal.app/#indir) adresinden yapılır.
+Windows kurulumu (Setup ve MSI) bu deponun [Releases](https://github.com/malidemrci/remoteportal/releases/latest) bölümünde ve [remoteportal.app/#indir](https://remoteportal.app/#indir) adresinde; mobil deneme sürümleri sitede.
 
 <p align="center"><img src="images/download.png" alt="İndirme bölümü"></p>
 
